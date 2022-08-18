@@ -3,11 +3,11 @@
 - Animated
 ![123](https://user-images.githubusercontent.com/111099396/185350189-9d104925-39fb-4bc1-b562-baafc3ec9378.gif)
 - Texture Evolution Comparision
-![tex](https://user-images.githubusercontent.com/111099396/185354396-1cdfead3-52c2-4ff1-a5ab-68fc7b9d43ae.png)
+![tex](https://user-images.githubusercontent.com/111099396/185362242-8019be1f-65b4-417b-88b3-35427fee5955.png)
 - Shape Evolution Comparision
-![shape](https://user-images.githubusercontent.com/111099396/185354388-3e6bb1bb-51ce-41e9-abd5-041986b521d4.png)
+![shape](https://user-images.githubusercontent.com/111099396/185362269-c5f7325a-c63d-4a5f-8751-c4614bf4ef4e.png)
 - Evolutionary shapes using the parameter Alpha
-![alpha](https://user-images.githubusercontent.com/111099396/185354377-7409b6a1-791a-445b-805a-0d4bbee221ea.png)
+![alpha](https://user-images.githubusercontent.com/111099396/185362286-8a901859-0d33-42ed-bb70-2bb8577a0007.png)
 
 
 ## Prerequisites
