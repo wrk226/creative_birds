@@ -1,5 +1,8 @@
 # DRGNet
 ![123](https://user-images.githubusercontent.com/111099396/185350189-9d104925-39fb-4bc1-b562-baafc3ec9378.gif)
+![shape](https://user-images.githubusercontent.com/111099396/185352760-2cbce632-7e22-4f9a-a16e-0c2f10dedc8b.png)
+![tex](https://user-images.githubusercontent.com/111099396/185352779-0b59f96d-32d3-402c-80ba-f63152819335.png)
+![alpha](https://user-images.githubusercontent.com/111099396/185352794-b64b0769-7642-46b7-ba5a-647f5db2a36d.png)
 
 ## Prerequisites
 - Download code & pre-trained model:
