@@ -1,4 +1,4 @@
-# DRGNet
+# 2D-to-3D-Evolution-Transfer
 ## Visualizations
 - Animated
 ![123](https://user-images.githubusercontent.com/111099396/185350189-9d104925-39fb-4bc1-b562-baafc3ec9378.gif)
