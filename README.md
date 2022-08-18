@@ -1,8 +1,14 @@
 # DRGNet
+## Visualizations
+- Animated
 ![123](https://user-images.githubusercontent.com/111099396/185350189-9d104925-39fb-4bc1-b562-baafc3ec9378.gif)
-![shape](https://user-images.githubusercontent.com/111099396/185352760-2cbce632-7e22-4f9a-a16e-0c2f10dedc8b.png)
-![tex](https://user-images.githubusercontent.com/111099396/185352779-0b59f96d-32d3-402c-80ba-f63152819335.png)
-![alpha](https://user-images.githubusercontent.com/111099396/185352794-b64b0769-7642-46b7-ba5a-647f5db2a36d.png)
+- Texture Evolution Comparision
+![tex](https://user-images.githubusercontent.com/111099396/185354396-1cdfead3-52c2-4ff1-a5ab-68fc7b9d43ae.png)
+- Shape Evolution Comparision
+![shape](https://user-images.githubusercontent.com/111099396/185354388-3e6bb1bb-51ce-41e9-abd5-041986b521d4.png)
+- Evolutionary shapes using the parameter Alpha
+![alpha](https://user-images.githubusercontent.com/111099396/185354377-7409b6a1-791a-445b-805a-0d4bbee221ea.png)
+
 
 ## Prerequisites
 - Download code & pre-trained model:
