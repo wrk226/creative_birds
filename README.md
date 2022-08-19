@@ -5,7 +5,7 @@
 - Texture Evolution with Different Switch Gate
 ![tex](https://user-images.githubusercontent.com/111099396/185530776-d410b0a5-0425-4a86-bba0-9cc40d27dc6d.gif)
 - Shape Evolution with Different Scale Factor (Alpha)
-![alpha](https://user-images.githubusercontent.com/111099396/185530774-8232c364-1cc5-4e0f-b1ba-c2d1f196c72c.gif)
+![alpha](https://user-images.githubusercontent.com/111099396/185532824-6f8f2d35-c44f-4ebe-9e44-f98f131b42a1.gif)
 
 ## Prerequisites
 - Download code & pre-trained model:
