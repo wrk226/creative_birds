@@ -1,13 +1,11 @@
 # 2D-to-3D-Evolution-Transfer
 ## Visualizations
-- Animated
-![123](https://user-images.githubusercontent.com/111099396/185350189-9d104925-39fb-4bc1-b562-baafc3ec9378.gif)
-- Texture Evolution Comparision
-![compare_tex_4_page-0001](https://user-images.githubusercontent.com/111099396/185362935-5b828438-0605-45b2-95c1-c5a50d7a945c.jpg)
-- Shape Evolution Comparision
-![compare_shape_4_page-0001](https://user-images.githubusercontent.com/111099396/185362938-7b43b565-df43-4ddd-ac07-7af5e9a64fcd.jpg)
-- Evolutionary shapes using the parameter Alpha
-![alpha - 副本_page-0001](https://user-images.githubusercontent.com/111099396/185362928-a960eda7-41ce-4506-9788-e6fb671d7f06.jpg)
+- Evolutionary Birds from Different Angles
+![rot](https://user-images.githubusercontent.com/111099396/185530766-0dff8428-5d94-4005-858c-a3dbad581ab0.gif)
+- Texture Evolution with Different Switch Gate
+![tex](https://user-images.githubusercontent.com/111099396/185530776-d410b0a5-0425-4a86-bba0-9cc40d27dc6d.gif)
+- Shape Evolution with Different Scale Factor(Alpha)
+![alpha](https://user-images.githubusercontent.com/111099396/185530774-8232c364-1cc5-4e0f-b1ba-c2d1f196c72c.gif)
 
 ## Prerequisites
 - Download code & pre-trained model:
