@@ -4,7 +4,7 @@
 ![rot](https://user-images.githubusercontent.com/111099396/185530766-0dff8428-5d94-4005-858c-a3dbad581ab0.gif)
 - Texture Evolution with Different Switch Gate
 ![tex](https://user-images.githubusercontent.com/111099396/185530776-d410b0a5-0425-4a86-bba0-9cc40d27dc6d.gif)
-- Shape Evolution with Different Scale Factor(Alpha)
+- Shape Evolution with Different Scale Factor (Alpha)
 ![alpha](https://user-images.githubusercontent.com/111099396/185530774-8232c364-1cc5-4e0f-b1ba-c2d1f196c72c.gif)
 
 ## Prerequisites
