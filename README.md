@@ -3,9 +3,10 @@
 - Evolutionary Birds from Different Angles
 ![rot](https://user-images.githubusercontent.com/111099396/185560433-c4e86a75-708c-4f3d-89ea-15058945bab1.gif)
 - Shape Evolution with Different Scale Factor (Alpha)
-![alpha](https://user-images.githubusercontent.com/111099396/185560430-1daa4c21-b9c8-4f7f-8e02-1ef4ec3133a0.gif)
+![alpha](https://user-images.githubusercontent.com/111099396/185732041-8fd439e9-62cf-49b5-a7f4-65860762dd10.gif)
 - Texture Evolution with Different Switch Gate
-![tex](https://user-images.githubusercontent.com/111099396/185560429-c1525e7e-810a-426f-a2f4-affc6c35b18f.gif)
+![tex](https://user-images.githubusercontent.com/111099396/185732037-f539f30e-58db-49c7-a5d5-cbd2dc5a2bdd.gif)
+
 
 ## Prerequisites
 - Download code & pre-trained model:
