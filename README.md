@@ -2,9 +2,9 @@
 ## Visualizations
 - Evolutionary Birds from Different Angles
 ![rot](https://user-images.githubusercontent.com/111099396/185560433-c4e86a75-708c-4f3d-89ea-15058945bab1.gif)
-- Shape Evolution with Different Scale Factor (Alpha)
+- Shape transfer with Different Scale Factor (Alpha)
 ![alpha](https://user-images.githubusercontent.com/111099396/185732041-8fd439e9-62cf-49b5-a7f4-65860762dd10.gif)
-- Texture Evolution with Different Switch Gate
+- Texture transfer with Different Switch Gate
 ![tex](https://user-images.githubusercontent.com/111099396/185732037-f539f30e-58db-49c7-a5d5-cbd2dc5a2bdd.gif)
 
 
