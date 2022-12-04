@@ -1,4 +1,4 @@
-# 2D-to-3D-Evolution-Transfer
+# Self-supervised Single-view 3D Style Transfer
 ## Visualizations
 - Evolutionary Birds from Different Angles
 ![rot](https://user-images.githubusercontent.com/111099396/185560433-c4e86a75-708c-4f3d-89ea-15058945bab1.gif)
